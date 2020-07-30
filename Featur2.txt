@@ -1,1 +1,3 @@
+This line is related to feature3
+
 This is the implementation for feature2
