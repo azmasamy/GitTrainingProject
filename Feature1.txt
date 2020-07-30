@@ -1,3 +1,1 @@
 This is the implementation & a bugfix of feature1
-
-This line is related to feature3
